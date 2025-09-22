@@ -18,3 +18,5 @@ Tag <title>→ memberikan judul halaman web yang akan ditampilkan di tab browser
 Tag <head> → bagian kepala, bisa diisi dengan judul halaman.
 
 Tag <body> → isi utama halaman web.
+
+
