@@ -3,16 +3,18 @@ JAWABAN:
 <img width="1920" height="1080" alt="Screenshot 2025-09-22 200636" src="https://github.com/user-attachments/assets/9305a31b-2bf9-4e1f-991a-f307eb16f1e8" />
 Penjelasan : sudah di lakukan dan kode tidak error
 
-# 2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+# 2. Apa perbedaan dari tag (p) dengan tag (br), berikan penjelasannya!
 JAWABAN:
-TAG <P>
+# TAG (P)
 <img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/c2daaead-eaa8-442d-a629-b9bc36ddfc75" />
-PENJELASAN: Pengertian Tag <p><p> adalah singkatan dari paragraph (paragraf).
+PENJELASAN: Pengertian Tag (p)(p) adalah singkatan dari paragraph (paragraf).
 Digunakan untuk menampilkan teks dalam bentuk paragraf pada halaman web.
-Setiap kali kita membuat <p>...</p>, browser otomatis akan memberikan jarak (spasi) sebelum dan sesudah paragraf agar teks lebih rapi terbaca.
+Setiap kali kita membuat (p)...(/p), browser otomatis akan memberikan jarak (spasi) sebelum dan sesudah paragraf agar teks lebih rapi terbaca.
 
-TAG <BR>
+# TAG (BR)
 <img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/48ffe97a-430d-418b-8ca1-de478bcafeb4" />
 PENJELASAN: 
-
+Pengertian Tag (br)(br) adalah singkatan dari break (line break).
+Digunakan untuk memecah baris atau pindah ke baris baru tanpa harus membuat paragraf baru seperti (p).
+Tag ini tidak memiliki penutup (self-closing tag).
 
